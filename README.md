@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @Guruprasad1002
+- 👋 Hi, I’m @Guruprasad HG
 - 👀 I’m interested in ... Software Development
-- 🌱 I’m currently learning ... JavaScript, React JS, Node JS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning ... JavaScript, React JS, Node JS, Express JS
+
 
 <!---
 Guruprasad1002/Guruprasad1002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
